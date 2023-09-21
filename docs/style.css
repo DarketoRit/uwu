@@ -54,7 +54,7 @@ body {
     height: 50px;
     border-radius: 50%;
     
-    background: radial-gradient(circle, #cb03fd, #ff5e00, #cb03fd);
+    background: radial-gradient(circle, #cb03fd, #cb03fd, #cb03fd);
   
     z-index: 4;
   
